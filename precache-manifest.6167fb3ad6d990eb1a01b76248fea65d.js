@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4493a67b94e8bccc1c5753339d86df5",
+    "revision": "956eea8b6a033fff7a9e3f09681710cb",
     "url": "/flipcoin/index.html"
   },
   {
-    "revision": "74f430961c447c541ec1",
+    "revision": "514075d7f274c86f8990",
     "url": "/flipcoin/static/css/main.8c2273d7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flipcoin/static/js/2.26e43191.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "74f430961c447c541ec1",
-    "url": "/flipcoin/static/js/main.1038d52d.chunk.js"
+    "revision": "514075d7f274c86f8990",
+    "url": "/flipcoin/static/js/main.48b0e932.chunk.js"
   },
   {
     "revision": "c1de7cd3bbd8bed25ac5",
