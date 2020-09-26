@@ -6,7 +6,7 @@ class Coin extends Component{
         super(props);
         let img_arr = [
             "https://tinyurl.com/react-coin-heads-jpg",
-            "https://tinyurl.com/react-coin-tails-jpg"
+            "http://www.pcgscoinfacts.com/UserImages/71009269r.jpg"
         ]
         this.state = {
             img_arr: img_arr,
