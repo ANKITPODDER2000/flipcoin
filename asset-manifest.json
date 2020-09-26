@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/flipcoin/static/css/main.8c2273d7.chunk.css",
-    "main.js": "/flipcoin/static/js/main.48b0e932.chunk.js",
-    "main.js.map": "/flipcoin/static/js/main.48b0e932.chunk.js.map",
+    "main.js": "/flipcoin/static/js/main.cbe9ec84.chunk.js",
+    "main.js.map": "/flipcoin/static/js/main.cbe9ec84.chunk.js.map",
     "runtime-main.js": "/flipcoin/static/js/runtime-main.c3959667.js",
     "runtime-main.js.map": "/flipcoin/static/js/runtime-main.c3959667.js.map",
-    "static/js/2.26e43191.chunk.js": "/flipcoin/static/js/2.26e43191.chunk.js",
-    "static/js/2.26e43191.chunk.js.map": "/flipcoin/static/js/2.26e43191.chunk.js.map",
+    "static/js/2.439d3573.chunk.js": "/flipcoin/static/js/2.439d3573.chunk.js",
+    "static/js/2.439d3573.chunk.js.map": "/flipcoin/static/js/2.439d3573.chunk.js.map",
     "index.html": "/flipcoin/index.html",
-    "precache-manifest.6167fb3ad6d990eb1a01b76248fea65d.js": "/flipcoin/precache-manifest.6167fb3ad6d990eb1a01b76248fea65d.js",
+    "precache-manifest.88084d6fe8f875a61127d3c4a11ee69b.js": "/flipcoin/precache-manifest.88084d6fe8f875a61127d3c4a11ee69b.js",
     "service-worker.js": "/flipcoin/service-worker.js",
     "static/css/main.8c2273d7.chunk.css.map": "/flipcoin/static/css/main.8c2273d7.chunk.css.map",
-    "static/js/2.26e43191.chunk.js.LICENSE.txt": "/flipcoin/static/js/2.26e43191.chunk.js.LICENSE.txt"
+    "static/js/2.439d3573.chunk.js.LICENSE.txt": "/flipcoin/static/js/2.439d3573.chunk.js.LICENSE.txt",
+    "static/media/head.jpg": "/flipcoin/static/media/head.99a10729.jpg",
+    "static/media/tail.jpg": "/flipcoin/static/media/tail.43f803d7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c3959667.js",
-    "static/js/2.26e43191.chunk.js",
+    "static/js/2.439d3573.chunk.js",
     "static/css/main.8c2273d7.chunk.css",
-    "static/js/main.48b0e932.chunk.js"
+    "static/js/main.cbe9ec84.chunk.js"
   ]
 }
