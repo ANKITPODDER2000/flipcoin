@@ -10,6 +10,7 @@ class Coin extends Component{
             head,
             tail
         ]
+        //Set initial state
         this.state = {
             img_arr: img_arr,
             heads: 0,
